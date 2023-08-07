@@ -1,0 +1,13 @@
+.container{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(40deg,rgb(154, 74, 74),rgb(59, 59, 114),rgb(47, 105, 47));
+}
+h1{
+  font-size: 15vh;
+  color: cyan;
+}
